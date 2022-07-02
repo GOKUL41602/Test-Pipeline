@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+JrV6qQarkjrT3BMZHcIpV/efPivLTQkAAM90tcccPZQOEuS2zmJVie61srFR7IOt3utnLPo8GoARQg4Tynfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gokul\\source\\repos\\PipelineTestProject\\PipelineTestProject\\PipelineTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gokul\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Gokul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
